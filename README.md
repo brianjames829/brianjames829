@@ -1,51 +1,43 @@
 # 👋 Hey, I’m Brian (aka **Brian0xPi**)
 
-### Smart Contract Security • AI-Assisted Auditing • Decentralized Systems
+### Systems & Smart Contract Security Engineering  
+### AI-Assisted Auditing • Failure Analysis • Decentralized Systems
 
-I’m a smart contract developer focused on **AI-assisted security research**, using iterative analysis, testing, and verification to build more reliable decentralized systems.
+I’m a systems and smart contract security engineer focused on **AI-assisted auditing and failure analysis** in decentralized systems.
 
-My work emphasizes **hands-on experimentation**, transparent iteration, and publishing results as they stabilize — not polished marketing artifacts.
+My work emphasizes **hands-on experimentation**, reproducible testing, and clear reasoning. I publish results incrementally, prioritizing **evidence, assumptions, and validation** over polished marketing artifacts.
 
 ---
 
-## 🚧 Status & Proof Roadmap
+## 🚧 Status & Proof
 
-This GitHub profile is in **active build mode**.
+This profile documents **active security research and systems experimentation**.
 
-I am intentionally publishing work **as it is developed**, with a focus on:
+Work is published incrementally, with emphasis on:
 - reproducibility
-- clear reasoning
+- explicit assumptions
+- failure and edge-case analysis
 - AI-assisted workflows with human validation
-- learning in public without pretending finished expertise
 
-### What exists now
-- Cyfrin CodeHawks participation and security research
-- Local smart contract testing and analysis environments
-- Ongoing experiments in Solidity, Foundry, and security tooling
-
-### What is coming next
-- Public audit-style writeups
-- Minimal, reproducible smart contract examples
-- AI-assisted analysis pipelines with documented assumptions
-- Small tools and utilities as they stabilize
-
-> This profile reflects **work in motion**, not résumé padding.
+Repositories and writeups show both **what works and what breaks**, including the reasoning behind fixes.
 
 ---
 
 ## 🧭 Current Focus
 
 - Smart contract security analysis and auditing practice  
-- AI-assisted reasoning for vulnerability discovery  
-- Decentralized systems and trust-minimized design  
-- Publishing clear, inspectable artifacts as proof  
+- Failure-mode discovery and invariant reasoning  
+- AI-assisted vulnerability discovery with manual verification  
+- Trust-minimized and adversarial system design  
+- Publishing inspectable, reproducible proof artifacts  
 
 ---
 
-## 🧠 Technical Stack (in active use)
+## 🧠 Technical Stack (active use)
 
 `Solidity` • `Foundry` • `Python` • `Ethers.js`  
-`Security Analysis` • `AI-Assisted Auditing` • `ZK Systems`  
+`Security Analysis` • `AI-Assisted Auditing`  
+`Zero-Knowledge Proofs (Foundational)`  
 `Rust` • `Node.js`
 
 ---
@@ -54,13 +46,24 @@ I am intentionally publishing work **as it is developed**, with a focus on:
 
 If you’re reviewing this profile:
 
-- Look for **clarity of reasoning**, not volume
-- Review commit history and iteration patterns
-- Expect work to evolve publicly, including mistakes and corrections
-- Read writeups once published — they will document assumptions, failures, and fixes
-- AI is used as a **tool**, not a substitute for validation
+- Look for **clarity of reasoning**, not volume  
+- Review commit history and iteration patterns  
+- Read writeups once published — they document assumptions, failures, and fixes  
+- AI is used as a **tool**, not a substitute for validation  
 
 This profile prioritizes **learning velocity and integrity** over appearances.
+
+---
+
+## 🎯 First Public Proof
+
+The first published artifact will include:
+- a minimal smart contract with intentional design flaws  
+- documented failure modes and risk assumptions  
+- a reproducible test harness demonstrating the issue  
+- a written breakdown of findings and remediation  
+
+This will be released as a standalone repository with a clear README and supporting tests.
 
 ---
 
@@ -76,24 +79,25 @@ This profile prioritizes **learning velocity and integrity** over appearances.
 
 ## ⚡ Ongoing Project
 
-**Nightcoder Labs**  
-A small, evolving initiative focused on:
-- AI × blockchain security research
-- open-source collaboration
-- applied cryptography
-- developer tools that improve trust and verification
+**Nightcoder Labs**
 
-*(website coming later — GitHub is the source of truth)*
+An evolving initiative focused on:
+- AI × blockchain security research  
+- applied cryptography  
+- open-source collaboration  
+- developer tools that improve trust and verification  
+
+*(GitHub is the source of truth.)*
 
 ---
 
 ## 🧩 Collaboration
 
 Open to:
-- smart contract security projects
-- audit-style research
-- AI-assisted analysis tooling
-- written, async collaboration
+- smart contract security research  
+- audit-style analysis  
+- AI-assisted testing and tooling  
+- written, async collaboration  
 
 Best contact:  
 💬 LinkedIn or X (links above)

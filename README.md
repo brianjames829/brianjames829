@@ -1,79 +1,105 @@
-# 👋 Hey, I’m Brian (aka **Brian0xPi**)
+# 👋 Hey, I’m Brian
 
-### Systems & Smart Contract Security Engineering  
-### AI-Assisted Auditing • Failure Analysis • Decentralized Systems
+### Systems & Reliability Engineering  
+### Infrastructure • Security • Incident Response • Root Cause Analysis
 
-I’m a systems and smart contract security engineer focused on **AI-assisted auditing and failure analysis** in decentralized systems.
+I design, test, and harden systems across software, infrastructure, and distributed environments.
 
-My work emphasizes **hands-on experimentation**, reproducible testing, and clear reasoning. I publish results incrementally, prioritizing **evidence, assumptions, and validation** over polished marketing artifacts.
+My work focuses on:
+
+• Root cause analysis and structured failure modeling  
+• Reproducible testing and validation workflows  
+• Production stability and incident response discipline  
+• Security analysis across application and smart contract systems  
+
+I publish work incrementally with emphasis on clarity of reasoning, explicit assumptions, and verifiable results.
 
 ---
 
-## 🚧 Status & Proof
+## 📌 Status & Proof
 
-This profile documents **active security research and systems experimentation**.
+This profile documents active systems engineering and security work.
 
-Work is published incrementally, with emphasis on:
-- reproducibility
-- explicit assumptions
-- failure and edge-case analysis
-- AI-assisted workflows with human validation
+All projects prioritize:
 
-Repositories and writeups show both **what works and what breaks**, including the reasoning behind fixes.
+• Reproducible builds and test coverage  
+• Clear assumptions and documented tradeoffs  
+• Failure-mode and edge-case analysis  
+• Measurable fixes with verifiable results  
+
+Repositories include both successful implementations and documented failures, with root cause breakdowns and remediation steps.
+
+The goal is simple: make systems more stable, observable, and defensible over time.
 
 ---
 
 ## 🧭 Current Focus
 
-- Smart contract security analysis and auditing practice  
-- Failure-mode discovery and invariant reasoning  
-- AI-assisted vulnerability discovery with manual verification  
-- Trust-minimized and adversarial system design  
-- Publishing inspectable, reproducible proof artifacts  
+• Production reliability and failure-mode analysis  
+• Application and infrastructure troubleshooting (end-to-end)  
+• Secure system design (auth, access control, trust boundaries)  
+• Smart contract security as an applied systems discipline  
+• Publishing reproducible, inspectable proof-of-work artifacts
 
 ---
 
 ## 🧠 Technical Stack (active use)
 
-`Solidity` • `Foundry` • `Python` • `Ethers.js`  
-`Security Analysis` • `AI-Assisted Auditing`  
-`Zero-Knowledge Proofs (Foundational)`  
-`Rust` • `Node.js`
+Infrastructure & Ops:
+`Linux` • `Cloudflare (DNS / TLS)` • `GitHub Actions (CI/CD)` • `Bash`
+
+Languages & Scripting:
+`Python` • `Node.js` • `Solidity`
+
+Security & Reliability:
+`Root Cause Analysis` • `Threat Modeling` • `Access Control (RBAC / Auth)` • `Failure-Mode Analysis`
+
+Smart Contract Tooling:
+`Foundry` • `Ethers.js`
+
+Foundational Exposure:
+`Rust` • `Zero-Knowledge Systems (Conceptual)`
 
 ---
 
 ## 🔍 How to Evaluate My Work
 
-If you’re reviewing this profile:
+This profile emphasizes disciplined systems thinking over volume.
 
-- Look for **clarity of reasoning**, not volume  
-- Review commit history and iteration patterns  
-- Read writeups once published — they document assumptions, failures, and fixes  
-- AI is used as a **tool**, not a substitute for validation  
+Projects are structured to show:
 
-This profile prioritizes **learning velocity and integrity** over appearances.
+• Clear problem definition and scope boundaries  
+• Explicit assumptions and documented tradeoffs  
+• Iterative debugging and commit history transparency  
+• Root cause breakdowns and remediation logic  
+
+AI is used as an acceleration tool, not a substitute for verification or reasoning.
+
+The goal is consistent: build systems that are understandable, testable, and resilient.
 
 ---
 
 ## 🎯 First Public Proof
 
-The first published artifact will include:
-- a minimal smart contract with intentional design flaws  
-- documented failure modes and risk assumptions  
-- a reproducible test harness demonstrating the issue  
-- a written breakdown of findings and remediation  
+The first published artifact will demonstrate structured failure discovery and remediation in a controlled system.
 
-This will be released as a standalone repository with a clear README and supporting tests.
+It will include:
+
+• A minimal application or contract with intentional design flaws  
+• Documented failure modes and risk assumptions  
+• A reproducible test harness demonstrating the issue  
+• A written root cause analysis and remediation walkthrough  
+
+The repository will prioritize clarity, reproducibility, and disciplined debugging over complexity.
 
 ---
 
 ## 🌐 External Profiles
 
-- 🔒 Cyfrin CodeHawks: https://profiles.cyfrin.io/u/brian0xpi  
-- 🔗 LinkedIn: https://www.linkedin.com/in/brianjames829  
-- 🧬 ORCID: https://orcid.org/0009-0009-2668-909X  
-- 🐦 X / Twitter: https://x.com/NightcoderND  
-- 🎓 Credly: https://www.credly.com/users/brianjames829  
+• LinkedIn: https://www.linkedin.com/in/brianjames829  
+• Credly (Certifications): https://www.credly.com/users/brianjames829  
+• Cyfrin CodeHawks (Security Work): https://profiles.cyfrin.io/u/brian0xpi  
+• Website: https://nightcoderdesigns.com
 
 ---
 
@@ -81,30 +107,25 @@ This will be released as a standalone repository with a clear README and support
 
 **Nightcoder Labs**
 
-An evolving initiative focused on:
-- AI × blockchain security research  
-- applied cryptography  
-- open-source collaboration  
-- developer tools that improve trust and verification  
+An ongoing systems and security initiative focused on:
 
-*(GitHub is the source of truth.)*
+• Applied failure analysis across software and distributed systems  
+• Security testing and adversarial modeling  
+• Tooling and automation that improve verification and reproducibility  
+• Publishing inspectable engineering artifacts and case studies  
 
----
-
-## 🧩 Collaboration
-
-Open to:
-- smart contract security research  
-- audit-style analysis  
-- AI-assisted testing and tooling  
-- written, async collaboration  
-
-Best contact:  
-💬 LinkedIn or X (links above)
+GitHub serves as the source of truth for all work and iteration history.
 
 ---
 
-> *Security is intelligence.  
-> Intelligence demands integrity.*
+## 🤝 Collaboration
 
-Always learning. Always building.
+Open to collaboration on:
+
+• Systems reliability and incident analysis  
+• Security testing and structured code review  
+• Infrastructure automation and CI/CD workflows  
+• Technical documentation and reproducible case studies  
+
+Best contact:
+LinkedIn (preferred) — see profile above

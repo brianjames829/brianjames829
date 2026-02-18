@@ -57,8 +57,7 @@ Security & Reliability:
 Smart Contract Tooling:
 `Foundry` • `Ethers.js`
 
-Foundational Exposure:
-`Rust` • `Zero-Knowledge Systems (Conceptual)`
+Additional Exposure: `Rust` • `Distributed systems concepts`
 
 ---
 
@@ -79,18 +78,19 @@ The goal is consistent: build systems that are understandable, testable, and res
 
 ---
 
-## 🎯 First Public Proof
+## 🎯 Representative Work
 
-The first published artifact will demonstrate structured failure discovery and remediation in a controlled system.
+This profile highlights structured failure discovery and remediation in controlled systems.
 
-It will include:
+Repositories are designed to demonstrate:
 
-• A minimal application or contract with intentional design flaws  
-• Documented failure modes and risk assumptions  
-• A reproducible test harness demonstrating the issue  
-• A written root cause analysis and remediation walkthrough  
+- Clear problem definition and scope boundaries  
+- Explicit assumptions and risk framing  
+- Reproducible builds and test harnesses  
+- Root cause analysis with documented remediation  
+- Regression tests to prevent recurrence  
 
-The repository will prioritize clarity, reproducibility, and disciplined debugging over complexity.
+Each project prioritizes disciplined debugging and verification over feature volume.
 
 ---
 

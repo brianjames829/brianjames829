@@ -16,23 +16,6 @@ I publish work incrementally with emphasis on clarity of reasoning, explicit ass
 
 ---
 
-## 📌 Status & Proof
-
-This profile documents active systems engineering and security work.
-
-All projects prioritize:
-
-• Reproducible builds and test coverage  
-• Clear assumptions and documented tradeoffs  
-• Failure-mode and edge-case analysis  
-• Measurable fixes with verifiable results  
-
-Repositories include both successful implementations and documented failures, with root cause breakdowns and remediation steps.
-
-The goal is simple: make systems more stable, observable, and defensible over time.
-
----
-
 ## 🧭 Current Focus
 
 • Production reliability and failure-mode analysis  
@@ -61,45 +44,23 @@ Additional Exposure: `Rust` • `Distributed systems concepts`
 
 ---
 
-## 🔍 How to Evaluate My Work
+## 📌 Proof & Evaluation
 
-This profile emphasizes disciplined systems thinking over volume.
+This profile documents active systems engineering and security work.
 
-Projects are structured to show:
+Projects are structured to demonstrate:
 
-• Clear problem definition and scope boundaries  
-• Explicit assumptions and documented tradeoffs  
-• Iterative debugging and commit history transparency  
-• Root cause breakdowns and remediation logic  
+- Clear problem definition and scoped boundaries  
+- Explicit assumptions and documented tradeoffs  
+- Reproducible builds and test coverage  
+- Failure-mode and edge-case analysis  
+- Root cause identification with measurable remediation  
 
-AI is used as an acceleration tool, not a substitute for verification or reasoning.
+Commit history reflects iterative debugging and refinement — not one-shot uploads.
 
-The goal is consistent: build systems that are understandable, testable, and resilient.
+AI is used as an acceleration tool, not a substitute for validation or reasoning.
 
----
-
-## 🎯 Representative Work
-
-This profile highlights structured failure discovery and remediation in controlled systems.
-
-Repositories are designed to demonstrate:
-
-- Clear problem definition and scope boundaries  
-- Explicit assumptions and risk framing  
-- Reproducible builds and test harnesses  
-- Root cause analysis with documented remediation  
-- Regression tests to prevent recurrence  
-
-Each project prioritizes disciplined debugging and verification over feature volume.
-
----
-
-## 🌐 External Profiles
-
-• LinkedIn: https://www.linkedin.com/in/brianjames829  
-• Credly (Certifications): https://www.credly.com/users/brianjames829  
-• Cyfrin CodeHawks (Security Work): https://profiles.cyfrin.io/u/brian0xpi  
-• Website: https://nightcoderdesigns.com
+The objective is consistent: build systems that are understandable, testable, and resilient.
 
 ---
 
@@ -128,4 +89,13 @@ Open to collaboration on:
 • Technical documentation and reproducible case studies  
 
 Best contact:
-LinkedIn (preferred) — see profile above
+LinkedIn (preferred) — see **External Profiles** below
+
+---
+
+## 🌐 External Profiles
+
+• LinkedIn: https://www.linkedin.com/in/brianjames829  
+• Credly (Certifications): https://www.credly.com/users/brianjames829  
+• Cyfrin CodeHawks (Security Work): https://profiles.cyfrin.io/u/brian0xpi  
+• Website: https://nightcoderdesigns.com

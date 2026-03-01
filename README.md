@@ -1,104 +1,90 @@
-# 👋 Hey, I’m Brian
+# 👋 Brian James
 
-### Systems & Reliability Engineering  
-### Infrastructure • Security • Incident Response • Root Cause Analysis
+Production Systems & Reliability Engineer  
+Infrastructure • Incident Response • Root Cause Analysis • Operational Stability  
 
-I design, operate, and harden systems across software, infrastructure, and distributed environments.
+I operate and maintain production-facing systems with a focus on stability, failure containment, and documented remediation.  
 
-My work centers on production stability, structured failure analysis, and defensible security architecture.
+My background in industrial automation translates directly into digital production environments: identify failure, isolate cause, restore uptime, document recurrence prevention.
 
 ---
 
 ## 🏗 Live Production Environment
 
-I operate and maintain a Cloudflare-fronted production web environment with:
+I maintain a Cloudflare-fronted Linux-based web environment used as a continuous operations lab.
+
+Environment includes:
 
 - Strict TLS enforcement (Full Strict, DNSSEC enabled)
-- Documented change control and incident logging
+- Cloudflare DNS and edge configuration
 - Version-controlled infrastructure documentation
-- Scheduled offsite backups via Git automation
-- Structured security posture baselines
-- Controlled release workflow for public artifacts
+- GitHub Actions–based release workflows
+- Structured change logging and incident documentation
+- Automated offsite backups via Git-based workflows
+- Defined security configuration boundaries
 
-This environment functions as a reliability lab for applied infrastructure discipline, failure modeling, and operational maturity.
-
-All evolution is logged and versioned.
+All changes are documented and versioned.  
+Commit history reflects operational discipline and iterative refinement.
 
 ---
 
 ## 🧭 Current Focus
 
-- Production reliability and failure-mode analysis  
-- End-to-end application and infrastructure troubleshooting  
-- Secure system design (authentication, access control, trust boundaries)  
-- Smart contract security as applied systems engineering  
-- Publishing reproducible, inspectable proof-of-work artifacts  
+- Log-driven incident analysis
+- Production stability and recurrence reduction
+- End-to-end troubleshooting (application ↔ infrastructure)
+- Change control and reproducible deployments
+- Security-aware system configuration
 
 ---
 
-## 🧠 Technical Stack (Active Use)
+## 🛠 Active Technical Stack
 
-**Infrastructure & Operations**  
-Linux • Cloudflare (DNS / TLS) • Git • GitHub Actions (CI/CD) • Bash  
+### Infrastructure & Operations
+Linux (Ubuntu 24.04) • Cloudflare (DNS / TLS / Edge) • Git • GitHub Actions • Bash (operational scripting)
 
-**Languages & Scripting**  
-Python • Node.js • Solidity  
+### Monitoring & Analysis
+journalctl • Hosting logs • Cloudflare analytics
 
-**Security & Reliability**  
-Root Cause Analysis • Threat Modeling • Access Control (RBAC / Auth) • Failure-Mode Analysis  
-
-**Smart Contract Tooling**  
-Foundry • Ethers.js  
-
-Additional Exposure: Rust • Distributed systems concepts  
+### Reliability & Security
+Root Cause Analysis • Failure-Mode Analysis • Access Control Principles • Structured Remediation Logging
 
 ---
 
-## 📌 Engineering Approach
+## 🧠 Engineering Approach
 
-Projects are structured to demonstrate:
+I structure work around:
 
-- Clear problem definition and scoped boundaries  
-- Explicit assumptions and documented tradeoffs  
-- Reproducible builds and validation workflows  
-- Failure-mode and edge-case analysis  
-- Root cause identification with measurable remediation  
+- Clear problem definition
+- Scoped boundaries
+- Reproducible builds
+- Explicit assumptions
+- Documented tradeoffs
+- Failure-mode analysis
+- Measurable remediation steps
 
-Commit history reflects iterative debugging, structured refinement, and operational logging — not one-shot uploads.
-
----
-
-## ⚡ Ongoing Initiative
-
-**Nightcoder Labs**
-
-An applied systems and security initiative focused on:
-
-- Infrastructure hardening and production discipline  
-- Security testing and adversarial modeling  
-- Automation that improves verification and reproducibility  
-- Publishing inspectable engineering artifacts and case studies  
-
-GitHub serves as the source of truth for iteration history and documentation discipline.
+Production work is iterative.  
+Stability improves through disciplined logging and controlled change.
 
 ---
 
 ## 🤝 Collaboration
 
-Open to collaboration on:
+Open to collaboration in:
 
-- Systems reliability and incident analysis  
-- Security testing and structured code review  
-- Infrastructure automation and CI/CD workflows  
-- Technical documentation and reproducible case studies  
+- Production systems support
+- Reliability engineering
+- Incident analysis
+- Infrastructure automation
+- Structured technical documentation
 
-Preferred contact: LinkedIn (see below)
+Preferred contact: LinkedIn
 
 ---
 
 ## 🌐 External Profiles
 
 LinkedIn: https://www.linkedin.com/in/brianjames829  
-Credly (Certifications): https://www.credly.com/users/brianjames829  
-Cyfrin CodeHawks: https://profiles.cyfrin.io/u/brian0xpi  
+Credly: https://www.credly.com/users/brianjames829  
+CodeHawks: https://profiles.cyfrin.io/u/brian0xpi  
 Website: https://nightcoderdesigns.com

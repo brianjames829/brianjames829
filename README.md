@@ -1,140 +1,162 @@
-# 👋 Brian James
+# Brian James
 
-Production Systems & Reliability Engineer  
-Infrastructure • Incident Response • Root Cause Analysis • Operational Proof  
+**Mechatronics Support Specialist • Systems Builder • Nightcoder Designs**
 
-I operate and maintain production-facing systems with a focus on stability, failure containment, documented remediation, and repeatable operational proof.
+I work across physical and digital systems: industrial automation, troubleshooting, infrastructure, software, AI, Web3, security, and operational documentation.
 
-My background in industrial automation translates directly into digital production environments: identify failure, isolate cause, restore uptime, document recurrence prevention, and improve the system so the same failure is less likely to repeat.
+My long-term technical focus is systems integration: understand how unfamiliar technologies work, identify where data/control/value move, find failure modes and missing pieces, and build useful systems around those insights.
 
-I’m also building Nightcoder Designs as a live production and product proof system: a public-facing business environment where infrastructure, documentation, product/service work, and public proof artifacts evolve together.
-
----
-
-## 🏗 Live Production Environment
-
-I maintain a Cloudflare-fronted Linux-based web environment used as a continuous operations and product proof lab.
-
-Environment includes:
-
-- Cloudflare DNS / TLS edge layer
-- Linux-based hosting
-- WordPress + WooCommerce application stack
-- Git-based documentation and release workflows
-- Version-controlled infrastructure documentation
-- Structured change logging and incident documentation
-- Automated offsite documentation backups through Git workflows
-- Defined security and publishing boundaries
-- Public proof artifacts derived from sanitized operational work
-
-All meaningful changes are documented and versioned.  
-Commit history reflects operational discipline and iterative refinement.
+I am building Nightcoder Designs as the vehicle for that work.
 
 ---
 
-## 🚧 Current Build
+## Current Technical Direction
 
-I’m currently building Nightcoder Designs around a product/service proof path.
+### AI Systems
 
-Recent focus:
+I am architecting a private model-independent intelligence system for Nightcoder Designs where the durable memory, rules, permissions, tools, history, and knowledge remain under ND control while AI models are replaceable reasoning engines.
 
-- **Site Care Ops Kit v1** — a documentation/reporting system for WordPress site care operators
-- **Care Reports** — a service bridge for turning maintenance work into client-facing proof
-- **Public proof artifacts** — sanitized operational documentation showing architecture, monitoring, reliability, and change-control discipline
-- **Private ops kernel** — structured operational memory, launch control, product roadmap, and proof queue
+Current architecture work includes:
 
-The goal is to turn messy production reality into structured systems that can be maintained, explained, reused, and trusted.
+- repository / knowledge ingestion
+- structured machine-readable documentation
+- provenance and source hierarchy
+- persistent memory
+- semantic retrieval
+- model routing
+- permission boundaries
+- auditability
+- human-controlled high-impact actions
 
----
+### Web3 / Base
 
-## 🔎 Public Proof
+Base and the Ethereum/EVM ecosystem are my primary Web3 laboratory.
 
-- [`nd-ops-public`](https://github.com/brianjames829/nd-ops-public) — sanitized operational artifacts, architecture overview, monitoring/security alignment case study, publication policy, and product/service proof notes.
+Current areas of study/build exploration:
 
-More public artifacts will be added only after review and sanitization.
+- EVM transactions and smart contracts
+- wallets / accounts
+- Base ecosystem data and intelligence
+- USDC / stablecoin payments
+- x402 / agentic commerce
+- developer tooling and APIs
+- contract / wallet / transaction analysis
+- Web3 security
+- onchain commerce
+- NFTs / digital assets as programmable ownership and utility rather than speculation alone
 
----
+### Mechatronics / Physical Systems
 
-## 🧭 Current Focus
+My professional work keeps the physical side of technology grounded in reality:
 
-- Log-driven incident analysis
-- Production stability and recurrence reduction
-- End-to-end troubleshooting across application, infrastructure, and edge layers
-- Change control and reproducible workflows
-- Security-aware system configuration
-- Documentation systems that create operational memory
-- Public/private proof boundaries
-- Product/service execution built from real operational discipline
+- industrial automation
+- instrumentation
+- sensors
+- flow / process systems
+- electrical and mechanical troubleshooting
+- system-level diagnostics
+- customer technical support
 
----
-
-## 🛠 Active Technical Stack
-
-### Infrastructure & Operations
-Linux (Ubuntu 24.04) • Cloudflare (DNS / TLS / Edge) • Git • GitHub • Bash (operational scripting) • WordPress/WooCommerce operations
-
-### Monitoring & Analysis
-journalctl • Hosting logs • Cloudflare analytics • external uptime monitoring • structured incident review
-
-### Reliability & Security
-Root Cause Analysis • Failure-Mode Analysis • Access Control Principles • Change Control • Structured Remediation Logging • Public/Private Documentation Boundaries
-
-### Product / Documentation Systems
-Markdown • DOCX reporting templates • file-based operating systems • documentation workflows • client-facing report structures
-
----
-
-## 🧠 Engineering Approach
-
-I structure work around:
-
-- clear problem definition
-- scoped boundaries
-- reproducible workflows
-- explicit assumptions
-- documented tradeoffs
-- failure-mode analysis
-- measurable remediation steps
-- public/private separation
-- proof from finished work
-
-Production work is iterative.
-
-Stability improves through disciplined logging, controlled change, and closing the documentation loop after real work happens.
+I am especially interested in where AI, software, networking, and autonomous systems increasingly connect to machines in the physical world.
 
 ---
 
-## 🧾 What I’m Proving
+## Nightcoder Designs
 
-My work focuses on turning messy production reality into structured systems:
+Nightcoder Designs is my systems, product, research, and creative build environment.
 
-- incidents into root cause records
-- maintenance into reports
-- operational notes into proof
-- private workflows into sanitized public artifacts
-- system constraints into better design decisions
-- troubleshooting experience into reusable products and services
+Current internal structure separates:
 
----
+- architecture / governance
+- research
+- operations
+- products
+- business
+- creative systems
+- memory / continuity
+- private intelligence
+- public proof
 
-## 🤝 Collaboration
+The goal is to build durable technical assets rather than let important work disappear inside disconnected chats or one-off experiments.
 
-Open to collaboration in:
-
-- Production systems support
-- Reliability engineering
-- Incident analysis
-- Infrastructure operations
-- Documentation systems
-- Operational proof artifacts
-- WordPress/site care reporting workflows
-- Security-aware technical documentation
-
-Preferred contact: LinkedIn
+Website: https://nightcoderdesigns.com
 
 ---
 
-## 🌐 External Profiles
+## Tesseract / Tess
+
+Tess Core is an evolving private Nightcoder Designs intelligence and continuity architecture.
+
+The current prototype already uses structured ledgers, schemas, scoring, validation, and briefing workflows. The next stage is repository ingestion, structured storage, retrieval, provenance, and model-independent reasoning.
+
+A future public Tesseract may provide safe Web3/Base analysis tools without exposing the private intelligence core.
+
+---
+
+## Public Proof
+
+- [`nd-ops-public`](https://github.com/brianjames829/nd-ops-public) — sanitized operational/system artifacts and proof.
+
+Private Nightcoder repositories remain intentionally private.
+
+---
+
+## Current Technical Stack / Learning Stack
+
+### Systems
+Linux • Git • GitHub • Bash • Python • APIs • networking • Cloudflare • WordPress/WooCommerce
+
+### AI / Data
+AI-assisted engineering • structured knowledge • JSON/YAML/Markdown • retrieval architecture • model/tool evaluation • agent/permission design
+
+### Web3
+Base • Ethereum/EVM • Solidity learning • smart contracts • wallets • stablecoins • x402 • onchain data/security
+
+### Physical Systems
+Industrial automation • mechatronics • instrumentation • electrical/mechanical troubleshooting • process diagnostics
+
+### Security / Reliability
+Root-cause analysis • incident thinking • change control • access boundaries • failure-mode analysis • documentation/provenance • security fundamentals
+
+---
+
+## Engineering Approach
+
+I tend to work from the system outward:
+
+1. define the actual problem,
+2. identify the boundaries and assumptions,
+3. trace how information/control/value moves,
+4. make the system observable,
+5. build the smallest useful version,
+6. test failure modes,
+7. preserve what was learned,
+8. improve from evidence.
+
+I care more about systems that remain understandable and useful than technology chosen because it is fashionable.
+
+---
+
+## Current Long-Term Goal
+
+By 2030, I want deep working capability across the intersection of:
+
+- AI and autonomous systems
+- Web3 / cryptography / programmable money
+- systems and distributed computing
+- cybersecurity
+- data and knowledge systems
+- networking / cloud / edge
+- mechatronics / robotics / physical AI
+- emerging technology that materially changes those systems
+
+The point is not to memorize every technology.
+
+The point is to become very good at learning new systems, connecting domains, and building what is missing.
+
+---
+
+## External Profiles
 
 LinkedIn: https://www.linkedin.com/in/brianjames829  
 Credly: https://www.credly.com/users/brianjames829  

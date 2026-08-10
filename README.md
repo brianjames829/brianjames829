@@ -83,13 +83,15 @@ Website: https://nightcoderdesigns.com
 
 ---
 
-## Tesseract / Tess
+## Tesser
 
-Tess Core is an evolving private Nightcoder Designs intelligence and continuity architecture.
+Tesser is the current identity for an evolving private Nightcoder Designs intelligence and continuity architecture.
 
-The current prototype already uses structured ledgers, schemas, scoring, validation, and briefing workflows. The next stage is repository ingestion, structured storage, retrieval, provenance, and model-independent reasoning.
+The current prototype, stored under the legacy repository path `nd-tess-core-private`, already uses structured ledgers, schemas, scoring, validation, and briefing workflows. The next stage is repository ingestion, structured storage, retrieval, provenance, and model-independent reasoning.
 
-A future public Tesseract may provide safe Web3/Base analysis tools without exposing the private intelligence core.
+A future public Tesser surface may provide safe Web3/Base analysis tools without exposing the private intelligence core.
+
+Public commercial use of the Tesser name will be validated separately before any launch under that name.
 
 ---
 

@@ -65,6 +65,7 @@ I am especially interested in the overlap between AI, software, networking, auto
 
 Nightcoder Designs keeps most internal architecture and operating state private, then publishes sanitized artifacts when the work is real enough to be useful.
 
+- **[Repo Drift Scanner](https://github.com/brianjames829/nd-ops-public/tree/main/tools/repo-drift-scanner)** — runnable Python utility that distinguishes stale current documentation from legitimate historical records; deterministic, configurable, tested, and model-free.
 - **[Tesser v0.2 Repository Ingestion Spine](https://github.com/brianjames829/nd-ops-public/blob/main/TESSER_INGESTION_SPINE_CASE.md)** — model-independent ingestion, provenance, authority classification, deterministic chunking, validation boundaries.
 - **[Monitoring & Edge Security Alignment Case](https://github.com/brianjames829/nd-ops-public/blob/main/MONITORING_EDGE_ALIGNMENT_CASE.md)** — false-positive monitoring analysis, root cause, corrective controls, and reliability lessons.
 - **[Nightcoder Designs Architecture Overview](https://github.com/brianjames829/nd-ops-public/blob/main/ARCHITECTURE_OVERVIEW.md)** — public-safe overview of the production/proof environment.

@@ -1,124 +1,86 @@
 # Brian James
 
-**Mechatronics Support Specialist • Systems Builder • Nightcoder Designs**
+**Systems Builder • Mechatronics Support Specialist • Nightcoder Designs**
 
-I work across physical and digital systems: industrial automation, troubleshooting, infrastructure, software, AI, Web3, security, and operational documentation.
+I work across physical and digital systems: industrial automation, software, infrastructure, AI, Web3, security, data, and technical operations.
 
-My long-term technical focus is systems integration: understand how unfamiliar technologies work, identify where data/control/value move, find failure modes and missing pieces, and build useful systems around those insights.
+My strongest technical interest is systems integration: understand how an unfamiliar system works, trace where data/control/value move, identify failure modes and missing pieces, then build something useful from what was learned.
 
-I am building Nightcoder Designs as the vehicle for that work.
+I am building **Nightcoder Designs** as the durable vehicle for that work.
 
 ---
 
-## Current Technical Direction
+## Currently Building
 
-### AI Systems
+### Private model-independent intelligence infrastructure
 
-I am architecting a private model-independent intelligence system for Nightcoder Designs where the durable memory, rules, permissions, tools, history, and knowledge remain under ND control while AI models are replaceable reasoning engines.
+Nightcoder Designs is developing a private intelligence and continuity architecture where durable memory, rules, permissions, provenance, tools, history, and knowledge remain under ND control while AI models can be replaced.
 
-Current architecture work includes:
+The current Tesser v0.2 prototype includes a working repository-ingestion spine with:
 
-- repository / knowledge ingestion
-- structured machine-readable documentation
-- provenance and source hierarchy
-- persistent memory
-- semantic retrieval
-- model routing
-- permission boundaries
-- auditability
-- human-controlled high-impact actions
+- explicit approved-source boundaries
+- local Git and read-only GitHub ingestion adapters
+- source authority / privacy classification
+- content hashing and provenance
+- deterministic document chunking
+- CLI manifest / JSONL output
+- automated tests
 
-### Web3 / Base
+This is an early private engineering system, not a production platform and not a public product.
 
-Base and the Ethereum/EVM ecosystem are my primary Web3 laboratory.
+Public-safe engineering notes:
 
-Current areas of study/build exploration:
+- [`TESSER_INGESTION_SPINE_CASE.md`](https://github.com/brianjames829/nd-ops-public/blob/main/TESSER_INGESTION_SPINE_CASE.md)
 
-- EVM transactions and smart contracts
+### Base / Ethereum / Web3
+
+Base and the EVM ecosystem are my primary Web3 laboratory. Current work and study includes:
+
+- smart contracts and transactions
 - wallets / accounts
-- Base ecosystem data and intelligence
 - USDC / stablecoin payments
 - x402 / agentic commerce
-- developer tooling and APIs
-- contract / wallet / transaction analysis
-- Web3 security
-- onchain commerce
-- NFTs / digital assets as programmable ownership and utility rather than speculation alone
+- onchain data and security
+- developer tooling / APIs
+- programmable digital ownership
 
-### Mechatronics / Physical Systems
+I treat chains and model providers as technologies to understand and use, not identities to defend.
 
-My professional work keeps the physical side of technology grounded in reality:
+### Physical systems
+
+My professional work keeps the software side grounded in machines and real-world failure modes:
 
 - industrial automation
-- instrumentation
-- sensors
+- instrumentation and sensors
 - flow / process systems
 - electrical and mechanical troubleshooting
 - system-level diagnostics
 - customer technical support
 
-I am especially interested in where AI, software, networking, and autonomous systems increasingly connect to machines in the physical world.
+I am especially interested in the overlap between AI, software, networking, autonomous systems, and physical machines.
+
+---
+
+## Selected Public Proof
+
+Nightcoder Designs keeps most internal architecture and operating state private, then publishes sanitized artifacts when the work is real enough to be useful.
+
+- **[Tesser v0.2 Repository Ingestion Spine](https://github.com/brianjames829/nd-ops-public/blob/main/TESSER_INGESTION_SPINE_CASE.md)** — model-independent ingestion, provenance, authority classification, deterministic chunking, validation boundaries.
+- **[Monitoring & Edge Security Alignment Case](https://github.com/brianjames829/nd-ops-public/blob/main/MONITORING_EDGE_ALIGNMENT_CASE.md)** — false-positive monitoring analysis, root cause, corrective controls, and reliability lessons.
+- **[Nightcoder Designs Architecture Overview](https://github.com/brianjames829/nd-ops-public/blob/main/ARCHITECTURE_OVERVIEW.md)** — public-safe overview of the production/proof environment.
+- **[Public Proof Repository](https://github.com/brianjames829/nd-ops-public)** — curated systems, reliability, AI/data, Web3, and technical artifacts as they become publishable.
 
 ---
 
 ## Nightcoder Designs
 
-Nightcoder Designs is my systems, product, research, and creative build environment.
+Nightcoder Designs is my technology, systems, product, research, and creative build environment.
 
-Current internal structure separates:
+Internally, the work is separated into architecture/governance, research, operations, products, business, creative systems, memory/continuity, private intelligence, and public proof so that important work does not disappear inside disconnected chats or one-off experiments.
 
-- architecture / governance
-- research
-- operations
-- products
-- business
-- creative systems
-- memory / continuity
-- private intelligence
-- public proof
-
-The goal is to build durable technical assets rather than let important work disappear inside disconnected chats or one-off experiments.
+The company is intended to remain durable even as individual products, models, platforms, chains, and technical interests change.
 
 Website: https://nightcoderdesigns.com
-
----
-
-## Tesser
-
-Tesser is the current identity for an evolving private Nightcoder Designs intelligence and continuity architecture.
-
-The current prototype, stored under the legacy repository path `nd-tess-core-private`, already uses structured ledgers, schemas, scoring, validation, and briefing workflows. The next stage is repository ingestion, structured storage, retrieval, provenance, and model-independent reasoning.
-
-A future public Tesser surface may provide safe Web3/Base analysis tools without exposing the private intelligence core.
-
-Public commercial use of the Tesser name will be validated separately before any launch under that name.
-
----
-
-## Public Proof
-
-- [`nd-ops-public`](https://github.com/brianjames829/nd-ops-public) — sanitized operational/system artifacts and proof.
-
-Private Nightcoder repositories remain intentionally private.
-
----
-
-## Current Technical Stack / Learning Stack
-
-### Systems
-Linux • Git • GitHub • Bash • Python • APIs • networking • Cloudflare • WordPress/WooCommerce
-
-### AI / Data
-AI-assisted engineering • structured knowledge • JSON/YAML/Markdown • retrieval architecture • model/tool evaluation • agent/permission design
-
-### Web3
-Base • Ethereum/EVM • Solidity learning • smart contracts • wallets • stablecoins • x402 • onchain data/security
-
-### Physical Systems
-Industrial automation • mechatronics • instrumentation • electrical/mechanical troubleshooting • process diagnostics
-
-### Security / Reliability
-Root-cause analysis • incident thinking • change control • access boundaries • failure-mode analysis • documentation/provenance • security fundamentals
 
 ---
 
@@ -127,19 +89,38 @@ Root-cause analysis • incident thinking • change control • access boundari
 I tend to work from the system outward:
 
 1. define the actual problem,
-2. identify the boundaries and assumptions,
-3. trace how information/control/value moves,
+2. identify boundaries and assumptions,
+3. trace information / control / value flow,
 4. make the system observable,
 5. build the smallest useful version,
 6. test failure modes,
 7. preserve what was learned,
 8. improve from evidence.
 
-I care more about systems that remain understandable and useful than technology chosen because it is fashionable.
+I care more about systems that remain understandable, testable, and useful than technology chosen because it is fashionable.
 
 ---
 
-## Current Long-Term Goal
+## Technical Range
+
+**Systems**  
+Linux • Git • GitHub • Bash • Python • APIs • networking • Cloudflare • WordPress/WooCommerce
+
+**AI / Data**  
+AI-assisted engineering • structured knowledge • JSON/YAML/Markdown • retrieval architecture • provenance • model/tool evaluation • agent/permission design
+
+**Web3**  
+Base • Ethereum/EVM • Solidity learning • smart contracts • wallets • stablecoins • x402 • onchain data/security
+
+**Physical Systems**  
+Industrial automation • mechatronics • instrumentation • electrical/mechanical troubleshooting • process diagnostics
+
+**Security / Reliability**  
+Root-cause analysis • incident thinking • change control • access boundaries • failure-mode analysis • documentation/provenance • security fundamentals
+
+---
+
+## Long-Term Direction
 
 By 2030, I want deep working capability across the intersection of:
 
@@ -152,9 +133,9 @@ By 2030, I want deep working capability across the intersection of:
 - mechatronics / robotics / physical AI
 - emerging technology that materially changes those systems
 
-The point is not to memorize every technology.
+The goal is not to memorize every technology.
 
-The point is to become very good at learning new systems, connecting domains, and building what is missing.
+The goal is to become very good at learning new systems, connecting domains, and building what is missing.
 
 ---
 

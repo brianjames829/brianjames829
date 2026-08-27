@@ -1,0 +1,12 @@
+schema_version: nd-repository/v1
+repo_id: brianjames829
+repository: brianjames829/brianjames829
+status: active
+role: public_founder_profile
+authority_class: public_profile_noncanonical
+human_entrypoint: README.md
+machine_entrypoint: .nd/repo.yaml
+owner_system: Brian James / Nightcoder Designs
+machine_notes:
+  - Public profile only; do not treat as authoritative internal ND state.
+  - Public-safe descriptions may intentionally omit private architecture details.

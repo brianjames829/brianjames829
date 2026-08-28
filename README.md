@@ -10,6 +10,19 @@ I am building **Nightcoder Designs** as the durable vehicle for that work.
 
 ---
 
+## Start Here
+
+If you are new to my GitHub and want to understand what Nightcoder Designs is actually building, start with the public evidence rather than trying to reverse-engineer the repository names:
+
+1. **[Nightcoder Designs Public Proof](https://github.com/brianjames829/nd-ops-public)** — curated engineering artifacts and the public newcomer path.
+2. **[Repo Drift Scanner v0.3.2](https://github.com/brianjames829/nd-ops-public/tree/main/tools/repo-drift-scanner)** — runnable deterministic repository guard/contract tooling.
+3. **[Nightcoder Designs Architecture Overview](https://github.com/brianjames829/nd-ops-public/blob/main/ARCHITECTURE_OVERVIEW.md)** — public-safe context for the production/proof boundary.
+4. **[nightcoderdesigns.com](https://nightcoderdesigns.com)** — the public brand/site surface.
+
+Most institutional architecture and operating state are private. Public proof is intentionally selective and should not be interpreted as a mirror of private current state.
+
+---
+
 ## Currently Building
 
 ### Nightcoder Designs Core / model-independent institutional intelligence
@@ -24,7 +37,8 @@ The current private work has moved beyond the original repository-ingestion prot
 - real repository evidence collection;
 - evidence-grounded reasoning;
 - repository-currentness / drift discipline;
-- fail-closed authority boundaries.
+- human and machine currentness entrypoints;
+- fail-closed authority boundaries and checkpoint promotion.
 
 The private architecture is under active development and is not represented here as a finished public platform.
 
@@ -36,11 +50,15 @@ Current direction treats AI models as replaceable reasoning machinery while ND r
 
 Public-safe proof is published selectively rather than exposing private ND memory, authority, or internal strategy.
 
-### Repo Drift Scanner
+### Repo Drift Scanner / Repo Drift Intelligence
 
 **Repo Drift Scanner v0.3.2** is a public deterministic repository-continuity utility for stale truth, explicit repository contracts, source coverage, evidence-domain boundaries, and historical/current separation.
 
-It currently lives under the Nightcoder Designs public-proof repository while its independent product/commercial boundary is being evaluated.
+Its intended role is a **deterministic guard/contract layer** for explicit invariants and already-understood failure classes. It is not presented as proof that semantic repository drift has been solved.
+
+Nightcoder Designs is separately developing the broader Repo Drift Intelligence direction: reconstruct repository meaning across code, tests, docs, manifests, history, and CI; discover contradictions that were not pre-encoded as rules; investigate them with evidence/provenance/uncertainty; and eventually expose useful machine-consumable currentness/trust output.
+
+The public scanner currently lives under the Nightcoder Designs public-proof repository while its independent product/commercial boundary is being evaluated.
 
 Public tool:
 
@@ -79,7 +97,7 @@ I am especially interested in the overlap between AI, software, networking, auto
 
 Nightcoder Designs keeps most institutional architecture and operating state private, then publishes sanitized artifacts when the work is real enough to be useful.
 
-- **[Repo Drift Scanner v0.3.2](https://github.com/brianjames829/nd-ops-public/tree/main/tools/repo-drift-scanner)** — deterministic repository continuity/currentness utility with source-coverage and evidence-domain boundaries.
+- **[Repo Drift Scanner v0.3.2](https://github.com/brianjames829/nd-ops-public/tree/main/tools/repo-drift-scanner)** — deterministic repository continuity/currentness guard with source-coverage and evidence-domain boundaries.
 - **[Tesser Repository Ingestion Spine Case](https://github.com/brianjames829/nd-ops-public/blob/main/TESSER_INGESTION_SPINE_CASE.md)** — historical/public-safe case study of the earlier model-independent ingestion work that contributed to the newer private architecture.
 - **[Monitoring & Edge Security Alignment Case](https://github.com/brianjames829/nd-ops-public/blob/main/MONITORING_EDGE_ALIGNMENT_CASE.md)** — false-positive monitoring analysis, root cause, corrective controls, and reliability lessons.
 - **[Nightcoder Designs Architecture Overview](https://github.com/brianjames829/nd-ops-public/blob/main/ARCHITECTURE_OVERVIEW.md)** — public-safe production/proof overview.
